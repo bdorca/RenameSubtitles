@@ -1,3 +1,4 @@
+__author__ = "bdorca"
 import argparse
 from os import listdir, rename
 from os.path import isfile, join

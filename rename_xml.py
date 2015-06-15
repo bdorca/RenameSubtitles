@@ -1,3 +1,4 @@
+__author__ = "bdorca"
 import argparse
 import json
 import file_rename
